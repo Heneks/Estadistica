@@ -3,8 +3,6 @@ title: "Entrega 1 estadística"
 author: "Pau Mir, Maria dels Àngels Guinovart, Eneko Martin"
 output: html_notebook
 ---
-## Exercici 1
-```{r}
 
 rm(list=ls())
 
@@ -26,4 +24,3 @@ Per_dau=function(n, N=1, sig=0.05) {
 }
 
 Per_dau(300,20)
-```
